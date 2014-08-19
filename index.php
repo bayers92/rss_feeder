@@ -11,7 +11,7 @@
     </head>
     <body>
         <div class = "page-header">
-            <h1> Venture Captial | Health Care </h1>
+            <a href = "http://www.brianayers.me"><h1> Venture Captial | Health Care </h1></a>
         </div>
         <?php date_default_timezone_set('America/New_York'); ?>
         <?php
